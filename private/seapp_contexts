@@ -113,3 +113,6 @@ user=_app minTargetSdkVersion=26 domain=untrusted_app type=app_data_file levelFr
 user=_app seinfo=netmonitor domain=netmonitor type=app_data_file levelFrom=user
 user=_app seinfo=base domain=untrusted_base_app_25 type=app_data_file levelFrom=user
 user=_app domain=untrusted_app_25 type=app_data_file levelFrom=user
+user=_app seinfo=orbot domain=orbot type=app_data_file levelFrom=user
+user=_app seinfo=orfox domain=orfox type=app_data_file levelFrom=user
+user=_app seinfo=bitmask domain=bitmask type=app_data_file levelFrom=user

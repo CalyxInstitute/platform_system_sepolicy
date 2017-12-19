@@ -35,7 +35,10 @@ coreAppdomain = {
         'untrusted_base_app_25',
         'untrusted_v2_app',
         'untrusted_v2_base_app',
-        'netmonitor'
+        'netmonitor',
+        'orbot',
+        'orfox',
+        'bitmask'
         }
 coredomainWhitelist = {
         'adbd',
