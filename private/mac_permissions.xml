@@ -78,4 +78,22 @@
       </package>
     </signer>
 
+    <signer signature="@RELEASE" >
+      <package name="org.torproject.android">
+        <seinfo value="orbot" />
+      </package>
+    </signer>
+
+    <signer signature="@RELEASE" >
+      <package name="info.guardianproject.orfox">
+        <seinfo value="orfox" />
+      </package>
+    </signer>
+
+    <signer signature="@RELEASE" >
+      <package name="se.leap.bitmaskclient">
+        <seinfo value="bitmask" />
+      </package>
+    </signer>
+
 </policy>
