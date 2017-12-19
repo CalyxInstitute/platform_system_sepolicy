@@ -19,6 +19,12 @@
     netmonitor
     netmonitor_devpts
     netmonitor_tmpfs
+    orbot
+    orbot_tmpfs
+    orfox
+    orfox_tmpfs
+    bitmask
+    bitmask_tmpfs
     netd_stable_secret_prop
     package_native_service
     sysfs_fs_ext4_features

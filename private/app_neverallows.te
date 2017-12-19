@@ -14,6 +14,9 @@ define(`all_untrusted_apps',`{
   untrusted_app_all
   untrusted_v2_app
   netmonitor
+  orbot
+  orfox
+  bitmask
 }')
 # Receive or send uevent messages.
 neverallow all_untrusted_apps domain:netlink_kobject_uevent_socket *;
